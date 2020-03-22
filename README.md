@@ -15,7 +15,7 @@ without restarting the REPL.
 
 ## Installation ##
 ```shell
-npm install node-require-no-cached
+npm install require-no-cached
 ```
 
 ## Usage ##
